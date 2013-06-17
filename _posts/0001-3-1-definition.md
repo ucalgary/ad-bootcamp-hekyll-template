@@ -1,13 +1,14 @@
 ---
 layout: default
 master: definition
-title: "term"
 published: true
 classes:
  - slide
 data:
   x: 2000
   y: 0
+
+title: "term"
 pronunciation: "|tərm|"
 category: noun
 ---
