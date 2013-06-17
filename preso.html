@@ -6,6 +6,8 @@ title: Hekyll Presentation Generator
 {% for post in site.posts reversed %}
 	{% if post.master == 'title' %}
 		{% include title.html %}
+	{% elsif post.master == 'section' %}
+		{% include section.html %}
 	{% elsif post.master == 'definition' %}
 		{% include definition.html %}
 	{% else %}
