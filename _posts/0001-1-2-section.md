@@ -1,7 +1,7 @@
 ---
 layout: default
 master: section
-published: true
+published: false
 classes:
  - slide
 data:

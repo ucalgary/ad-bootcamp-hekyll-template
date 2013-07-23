@@ -1,7 +1,7 @@
 ---
 layout: default
 master: definition
-published: true
+published: false
 classes:
  - slide
 data:
